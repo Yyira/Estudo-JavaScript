@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(101, 101, 247);
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+main {
+    max-width: 650px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    min-height: 150px;
+}
+
+main button {
+    width: 20%;
+}
+
+main input {
+    border-radius: 5px;
+}
+
+footer {
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+
+.list {
+    padding: 0;
+    border: solid 1px;
+}
+
+.list ul,
+.list li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+main, button,label{
+    padding: 10px;
+}
